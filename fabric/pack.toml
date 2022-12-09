@@ -1,0 +1,16 @@
+name = "createplus"
+author = "lizardfish"
+version = "1.0.0-fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b15d4fdb88f008df14e75b358d5d349fd4370eb47506b7a0aa2f7785523f9cc0"
+
+[versions]
+fabric = "0.14.11"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19.2"]

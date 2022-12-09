@@ -1,0 +1,16 @@
+name = "createplus"
+author = "lizardfish"
+version = "1.0.0-quilt"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "91ab33ce98c76a72bc1f26648e72c59b125e3942f2494168bad0d9ba7cc85210"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.22"
+
+[options]
+acceptable-game-versions = ["1.19.2"]

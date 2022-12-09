@@ -4,8 +4,7 @@ BUILD_DIR = ./build
 all: $(VARIANTS)
 
 $(VARIANTS): %: %-mrpack %-zip
-	mv *.zip ./build/
-	mv *.mrpack ./build/
+	mv *.zip *.mrpack $(BUILD_DIR)/
 
 %-mrpack:
 	packwiz modrinth export --meta-folder-base ./$*/ --pack-file ./$*/pack.toml

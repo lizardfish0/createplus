@@ -21,11 +21,6 @@ hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
-file = "mods/biomesyougo.pw.toml"
-hash = "e06976e3ac6a9e5f8b39db38db2803504f1e797360cca857610a4b9fb457d9e5"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
 metafile = true
@@ -66,6 +61,11 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "8d8c5a1095b1176dd838b0352d8931edfe9d76b7fc77e9d18a6af07422428a55"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5153b742252cd104d2fd71eea311d7523ba1b808ef832f1b8a9b7ede7c12a6e2"
 metafile = true
@@ -73,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
 metafile = true
 
 [[files]]
@@ -168,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
-metafile = true
-
-[[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "199bf931e17458fa299e16fc5f761241dde9ff1f9e62fe33e52acdcc1fcc2aa0"
 metafile = true
 
 [[files]]

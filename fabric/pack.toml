@@ -1,12 +1,12 @@
 name = "createplus"
 author = "lizardfish"
-version = "1.0.0-fabric"
+version = "1.0.1-fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b15d4fdb88f008df14e75b358d5d349fd4370eb47506b7a0aa2f7785523f9cc0"
+hash = "465cd98fdd84132f1072596a0b69643e7834bc2ad4ae1a2f67843c6492a12b7d"
 
 [versions]
 fabric = "0.14.11"
